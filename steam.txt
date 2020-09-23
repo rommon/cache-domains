@@ -1,3 +1,4 @@
+test.example.com
 lancache.steampowered.com
 lancache.steamcontent.com
 *.content.steampowered.com
